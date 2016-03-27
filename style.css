@@ -1,0 +1,7 @@
+#colonnes {
+    display: flex;
+}
+
+.colonne {
+    flex: 1;
+}
