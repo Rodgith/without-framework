@@ -11,4 +11,4 @@ Nous avons alors un code plus léger et plus performant.
 2. Bootstrap
 
 ## Exemple
-Voir page TroisCol.html et TroisCol_Bst.html
+Voir pages troisCol.html et troisCol_Bst.html
